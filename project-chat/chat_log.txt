@@ -1,0 +1,4 @@
+Vickky: library
+Ram: The library is open 24/7 during exam periods.
+Vickky: drink
+Ram: I'm sorry, I don't have that information right now. Try reaching out to the help desk!

@@ -1,0 +1,27 @@
+{
+    "agent_names": ["Sam", "Alex", "Karen", "Ram", "Ahmed"],
+    "responses": {
+        "how are you": "I'm doing well, thank you!",
+        "library": "The library is open 24/7 during exam periods.",
+        "admission": "Admissions can be applied for through our online portal.",
+        "scholarship": "Scholarship applications are accepted until the end of May.",
+        "coffee": "The campus coffee bar is open from 8 AM to 8 PM.",
+        "sports": "The sports complex is available for students from 6 AM to 10 PM.",
+        "hostel": "Hostel accommodations are allocated during the admission process.",
+        "transport": "The university provides free transport for students within the city.",
+        "events": "Check the events calendar on our website for upcoming activities.",
+        "fees": "Fee structures are available on the university's official portal.",
+        "registration": "Registration for courses closes by the end of the first week of classes.",
+        "exam": "Exam schedules are published a month before the examination period.",
+        "results": "Results are posted on the student portal after evaluation.",
+        "internship": "Internship opportunities are listed on the career services page.",
+        "parking": "Parking permits can be obtained from the campus security office.",
+        "food": "Our cafeteria serves breakfast, lunch, and dinner from 7 AM to 9 PM."
+    },
+    "random_responses": [
+        "That's an interesting question! Anything else I can help with?",
+        "I'm not sure about that. You might find more information on the university website.",
+        "Let me think about that... Can you rephrase your question?",
+        "I'm sorry, I don't have that information right now. Try reaching out to the help desk!"
+    ]
+}
